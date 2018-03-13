@@ -1,5 +1,5 @@
 ---
-title: Values longer title
+title: 'Values longer title even '
 image: /img/about-jumbotron.jpg
 values:
   - heading: Shade-grown coffee
